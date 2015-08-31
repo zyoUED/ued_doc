@@ -25,7 +25,7 @@ sn：`xxx`
 `http://p.weixin.qq.com/promotion/res/wechat/index.html `
 
 PSD文档svn地址：
-~~http://211.103.188.86/svn/yaodianmodule/yaodian_psd/ZyPSD~~
+`~~http://211.103.188.86/svn/yaodianmodule/yaodian_psd/ZyPSD~~`
 `http://218.4.168.58:8003/svn/yaodianmodule/yaodian_psd/ZyPSD `
 账号：`xxx`
 sn：`xxx123`
